@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/ISE P N/Procesa/TBProcesa2_isim_beh.exe" -prj "C:/ISE P N/Procesa/TBProcesa2_beh.prj" "work.TBProcesa2" 

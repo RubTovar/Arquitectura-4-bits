@@ -1,0 +1,41 @@
+Running: C:\Xilinx\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/ISE P N/Procesa/TBProcesa2_isim_beh.exe -prj C:/ISE P N/Procesa/TBProcesa2_beh.prj work.TBProcesa2 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/ISE P N/Procesa/../UnidadLogicaAritmetica/Alu.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../progcont/progCont.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../PORTout/Pout.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../Port/Ports.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../Mem_Trabajo/Wtrabajo.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../Mem_rom/Rom.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../MemRam/Ram.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../DecodificadorC/DecodC.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../DecodificadorB/DecodB.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/../DecodificadorA/DecodA.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/Procesa.vhd" into library work
+Parsing VHDL file "C:/ISE P N/Procesa/TBProcesa2.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity Ports [ports_default]
+Compiling architecture behavioral of entity Pout [pout_default]
+Compiling architecture behavioral of entity Wtrabajo [wtrabajo_default]
+Compiling architecture behavioral of entity Rom [rom_default]
+Compiling architecture behavioral of entity Ram [ram_default]
+Compiling architecture behavioral of entity DecodA [decoda_default]
+Compiling architecture behavioral of entity DecodB [decodb_default]
+Compiling architecture behavioral of entity DecodC [decodc_default]
+Compiling architecture behavioral of entity Alu [alu_default]
+Compiling architecture behavioral of entity progCont [progcont_default]
+Compiling architecture behavioral of entity Procesa [procesa_default]
+Compiling architecture behavior of entity tbprocesa2
+Time Resolution for simulation is 1ps.
+Waiting for 8 sub-compilation(s) to finish...
+Compiled 27 VHDL Units
+Built simulation executable C:/ISE P N/Procesa/TBProcesa2_isim_beh.exe
+Fuse Memory Usage: 35052 KB
+Fuse CPU Usage: 1546 ms

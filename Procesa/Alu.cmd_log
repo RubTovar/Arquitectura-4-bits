@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesa -o "C:/ISE P N/Procesa/Alu.vhi" -module Alu -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../UnidadLogicaAritmetica/Alu.vhd 

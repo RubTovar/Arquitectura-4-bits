@@ -1,0 +1,10 @@
+[Inputs]
+clk
+=ramB[3:0]=
+=romB[3:0]=
+=portIn[3:0]=
+=aluB[3:0]=
+=ctrl[2:0]=
+[Outputs]
+=resB[3:0]=
+[BiDir]

@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesa -o "C:/ISE P N/Procesa/Ram.vhi" -module Ram -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../MemRam/Ram.vhd 

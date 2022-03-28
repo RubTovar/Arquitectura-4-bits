@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesa -o "C:/ISE P N/Procesa/progCont.vhi" -module progCont -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../progcont/progCont.vhd 

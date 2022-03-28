@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/ISE P N/progcont/progCont.xst" -ofn "C:/ISE P N/progcont/progCont.syr" 

@@ -1,0 +1,7 @@
+[Inputs]
+ctrl
+clk
+=enPint[3:0]=
+[Outputs]
+=salePint[3:0]=
+[BiDir]

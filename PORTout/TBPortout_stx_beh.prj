@@ -1,0 +1,2 @@
+vhdl isim_temp "Pout.vhd"
+vhdl isim_temp "TBPortout.vhd"

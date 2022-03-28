@@ -1,0 +1,2 @@
+vhdl isim_temp "Ports.vhd"
+vhdl isim_temp "TBPort.vhd"

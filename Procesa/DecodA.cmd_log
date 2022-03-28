@@ -1,0 +1,9 @@
+vhdtdtfi -lib work ../DecodificadorA/DecodA.vhd -prj Procesa -o DecodA.spl -module DecodA -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 DecodA.spl {C:/ISE P N/Procesa/DecodA.sym} 
+vhdtdtfi -lib work ../DecodificadorA/DecodA.vhd -prj Procesa -o DecodA.spl -module DecodA -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 DecodA.spl {C:/ISE P N/Procesa/DecodA.sym} 
+vhdtdtfi -lib work ../DecodificadorA/DecodA.vhd -prj Procesa -o DecodA.spl -module DecodA -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 DecodA.spl {C:/ISE P N/Procesa/DecodA.sym} 
+vhdtdtfi -lib work ../DecodificadorA/DecodA.vhd -prj Procesa -o DecodA.spl -module DecodA -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 DecodA.spl {C:/ISE P N/Procesa/DecodA.sym} 
+vhdtdtfi -prj Procesa -o "C:/ISE P N/Procesa/DecodA.vhi" -module DecodA -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../DecodificadorA/DecodA.vhd 

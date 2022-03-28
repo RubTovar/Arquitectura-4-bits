@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesa -o "C:/ISE P N/Procesa/DecodC.vhi" -module DecodC -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../DecodificadorC/DecodC.vhd 

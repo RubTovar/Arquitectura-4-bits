@@ -1,0 +1,2 @@
+vhdl work "Ports.vhd"
+vhdl work "TBPort.vhd"

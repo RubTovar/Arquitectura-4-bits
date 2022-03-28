@@ -1,0 +1,3 @@
+vhdtdtfi -lib work ../DecodificadorB/DecodB.vhd -prj Procesa -o DecodB.spl -module DecodB -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 DecodB.spl {C:/ISE P N/Procesa/DecodB.sym} 
+vhdtdtfi -prj Procesa -o "C:/ISE P N/Procesa/DecodB.vhi" -module DecodB -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../DecodificadorB/DecodB.vhd 

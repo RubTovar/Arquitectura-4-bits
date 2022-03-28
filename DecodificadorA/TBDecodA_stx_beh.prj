@@ -1,0 +1,2 @@
+vhdl isim_temp "DecodA.vhd"
+vhdl isim_temp "TBDecodA.vhd"

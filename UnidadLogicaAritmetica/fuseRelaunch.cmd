@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/ISE P N/UnidadLogicaAritmetica/TB_Alu_isim_beh.exe" -prj "C:/ISE P N/UnidadLogicaAritmetica/TB_Alu_beh.prj" "work.TB_Alu" 
